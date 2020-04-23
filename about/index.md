@@ -7,7 +7,7 @@ comments: false
 ---
 
 ## Basic Information
-    We are 3D printing components to create Face Shields, while also procuring materials to support this initiative. equipment being used is provided by the Riverwood MakerSpace. Additional funding is needed to expand this effort AND Completed masks are provided to Atlanta Beats Covid for final sterilization and distribution.
+We are 3D printing components to create Face Shields, while also procuring materials to support this initiative. equipment being used is provided by the Riverwood MakerSpace. Additional funding is needed to expand this effort AND Completed masks are provided to Atlanta Beats Covid for final sterilization and distribution.
 
 ## GoFundMe
 
