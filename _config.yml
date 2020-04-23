@@ -8,7 +8,7 @@ logo:               'assets/img/rics.png'
 background:         'assets/img/mask-bg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://Riverwood-Face-Shields.github.io/
+url:                https://riverwoodfaceshields.com/
 
 # Jekyll
 permalink:          /:title/
