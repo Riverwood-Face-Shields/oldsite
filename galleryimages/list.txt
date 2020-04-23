@@ -1,0 +1,11 @@
+3D_Printer.png
+Face_Shield_1.png
+Face_Shield_2.png
+Face_Shield_3.png
+Face_Shield_4.png
+Face_Shield_5.png
+Face_Shields_Stacked.png
+Filament.png
+Luca_and_Piero_Cropped.png
+Luca_and_Piero.png
+Prints_on_Bed.png
