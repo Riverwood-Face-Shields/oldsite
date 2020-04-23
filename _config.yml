@@ -4,11 +4,11 @@ bio:                'Working to create face shields for those on the front line 
 description:        "We are 3D printing components to create Face Shields, while also procuring materials to support this initiative. equipment being used is provided by the Riverwood MakerSpace. Additional funding is needed to expand this effort AND Completed masks are provided to Atlanta Beats Covid for final sterilization and distribution."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/rfs.png'
-background:         'assets/img/mask-bg.png'
+logo:               '/assets/img/rfs.png'
+background:         '/assets/img/mask-bg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://riverwoodfaceshields.com/
+url:                https://riverwoodfaceshields.com
 
 # Jekyll
 permalink:          /:title/
